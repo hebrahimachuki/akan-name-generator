@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/birthday.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+#inputs{
+    width: 36 rems;
+    height: 28 rems;
+    position: relative;
+    padding: 10px;
+    background-color: rgb(179, 201, 205);
+}
