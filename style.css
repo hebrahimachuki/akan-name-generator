@@ -10,4 +10,16 @@ body{
     position: relative;
     padding: 10px;
     background-color: rgb(179, 201, 205);
+    box-shadow: 10px, 10px, 15px, rgb(57, 56, 56);
+    border-radius: 10px;
+
 }
+#inputs h1{
+    color: rgb(134, 12, 12);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
